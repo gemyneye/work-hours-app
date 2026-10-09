@@ -1,0 +1,33 @@
+# Python virtual environments
+.venv/
+venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Environment variables / secrets
+.env
+.env.*
+
+# Mac system files
+.DS_Store
+
+# VS Code local settings
+.vscode/
+
+# Testing / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
+
+# Node / web projects
+node_modules/
+
+# Logs
+*.log
