@@ -26,7 +26,7 @@ This is a personal learning and portfolio project. I’m building it independent
 2. User can input start time and end time
 3. Date and time will update selected Calendar on iPhone (Future feature)
 4. Provide an Edit button to adjust date and time
-5. Edit date/time will update the Calendar entry on iPhone (Future feature)
+5. Edit date/time will update the Calendar entry on iPhone (Future feature)fit
 6. App will calculate totals daily and per pay period
 
 ### Overall Settings
